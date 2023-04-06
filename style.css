@@ -1,0 +1,36 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+    /* .container{
+        box-shadow: 10px 40px rgba(0,0,0,0.3);
+        
+    } */
+th{
+    background-color: rgb(5, 0, 69);
+}
+.aksi{
+    text-align: center;
+}
+a.tambah_data{
+    background-color: #22a4cf;
+    border-radius: 5px;
+    padding: 7px 10px;
+    color: white;
+    text-decoration: none;
+}
+a.edit{
+    background-color: #FF8C00;
+    border-radius: 3px;
+    padding: 6px;
+    color: white;
+    text-decoration: none;
+}
+a.hapus{
+    margin-left: 10px;
+    background-color: rgb(230, 12, 12);
+    border-radius: 4px;
+    padding: 6px;
+    color: white;
+    text-decoration: none;
+}
